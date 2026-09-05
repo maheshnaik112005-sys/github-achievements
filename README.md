@@ -1,5 +1,3 @@
-# github-achievements
-Practice repository for GitHub achievements
-## GitHub Achievements
+## Second Contribution
 
-This repository is used to practice GitHub pull requests and contributions.
+This is my second GitHub pull request contribution.
